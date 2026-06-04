@@ -1,0 +1,9 @@
+.header {
+  background-color: #3365af;
+  padding: 10px 40px;
+  border-bottom: 1px solid #444;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    color: #fff;
+}
