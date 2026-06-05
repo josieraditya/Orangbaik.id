@@ -4,8 +4,11 @@ function Footer() {
   return (
     <div className="Footer">
         <p>&copy ; Iki Footer e</p>
+
+        
+
     </div>
   )
 }
 
-export default Footer
+export default Footer ;
